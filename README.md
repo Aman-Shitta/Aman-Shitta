@@ -7,3 +7,5 @@
 🎓 LPU Grad: Computer science at Lovely Professional University, now at CrossML Pvt Ltd., solving real-world problems with Python.
 
 🚀 Let's chat about Python, cybersecurity, or tech. Reach out, and let's connect!
+
++ Learning Go as of July 2024 
