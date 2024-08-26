@@ -8,4 +8,4 @@
 
 🚀 Let's chat about Python, cybersecurity, or tech. Reach out, and let's connect!
 
-+ Learning Go as of July 2024 
++ Learning Go as of July 2024 - ...
