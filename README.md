@@ -1,4 +1,4 @@
-### Hello World, I'm [Your Name] 👋
+### Hello World, I'm Aman, (YourAverageTechPahadi) 👋
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
