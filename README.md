@@ -131,6 +131,10 @@ I'm a dedicated Python developer with over three years of experience in crafting
 
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="48" height="48" alt="Go" />
 
+- **Gin-Gonic (EB framework for REST API)**
+
+  <img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" width="48" height="48" alt="Go" />
+
 - **In-place Modification Algorithms**
 
 ---
