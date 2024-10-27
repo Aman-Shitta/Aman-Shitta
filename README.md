@@ -182,6 +182,6 @@ When I'm not coding, you might find me exploring the latest in cybersecurity or 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Aman-Shitta}/count.svg)
 
-⭐️ From [YourUsername](https://github.com/Aman-Shitta)
+⭐️ From [Aman Shitta](https://github.com/Aman-Shitta)
 
 ---
