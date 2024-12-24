@@ -24,14 +24,6 @@ I'm a dedicated Python developer with over three years of experience in crafting
         <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="48" height="48" alt="Go" />
         <br>Go
       </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-icon.svg" width="48" height="48" alt="C" />
-        <br>C
-      </td>
     </tr>
   </table>
 
