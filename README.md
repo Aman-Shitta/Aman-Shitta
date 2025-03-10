@@ -4,9 +4,10 @@
 
 ---
 
-#### Passionate Python Developer | AI Integration Enthusiast | Tech Lead
+#### Passionate Software Engineer | AI Integration Enthusiast | Tech Lead
 
-I'm a dedicated Python developer with over three years of experience in crafting scalable web applications and integrating AI models into real-world solutions. I thrive on transforming complex problems into user-friendly applications.
+I'm a dedicated Software Engineer with over three years of experience in crafting scalable web applications and integrating AI models into real-world solutions. I thrive on transforming complex problems into user-friendly applications.
+I work mainly with python and golang.
 
 ---
 
