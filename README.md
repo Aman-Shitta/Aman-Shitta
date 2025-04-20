@@ -19,8 +19,38 @@
   <tr>
     <td align="center" width="140">
       <a href="https://www.credly.com/badges/0137d082-e40e-42f2-b77a-08db7763814e/public_url" target="_blank">
-        <img src="https://images.credly.com/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Prompt Design in Vertex AI" width="80" height="80"/><br>
-        <sub><b>Vertex AI Badge</b></sub>
+        <img src="https://images.credly.com/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Vertex AI" width="80"/><br>
+        <sub><b>Vertex AI (Credly)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.coursera.org/account/accomplishments/verify/HBN249BGFKV4" target="_blank">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HBN249BGFKV4/CERTIFICATE_LANDING_PAGE~HBN249BGFKV4.jpeg" alt="Foundations of Cybersecurity" width="80"/><br>
+        <sub><b>Foundations of Cybersecurity</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.coursera.org/account/accomplishments/verify/K8ACPPFLUU6S" target="_blank">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~K8ACPPFLUU6S/CERTIFICATE_LANDING_PAGE~K8ACPPFLUU6S.jpeg" alt="Computer Networks & Security" width="80"/><br>
+        <sub><b>Networks & Security</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.coursera.org/account/accomplishments/verify/QSVUCBK7H6TX" target="_blank">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~QSVUCBK7H6TX/CERTIFICATE_LANDING_PAGE~QSVUCBK7H6TX.jpeg" alt="Access Web Data" width="80"/><br>
+        <sub><b>Access Web Data (Python)</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.coursera.org/account/accomplishments/verify/NJSBTVSHS3GK" target="_blank">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NJSBTVSHS3GK/CERTIFICATE_LANDING_PAGE~NJSBTVSHS3GK.jpeg" alt="Python Data Structures" width="80"/><br>
+        <sub><b>Python Data Structures</b></sub>
+      </a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://www.hackerrank.com/certificates/cc7913c5dddb" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80"/><br>
+        <sub><b>Problem Solving (HackerRank)</b></sub>
       </a>
     </td>
   </tr>
