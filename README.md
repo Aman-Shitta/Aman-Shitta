@@ -20,7 +20,7 @@
     <td align="center" width="140">
       <a href="https://www.credly.com/badges/0137d082-e40e-42f2-b77a-08db7763814e/public_url" target="_blank">
         <img src="https://images.credly.com/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Vertex AI" width="80"/><br>
-        <sub><b>Vertex AI (Credly)</b></sub>
+        <sub><b>Prompt Design in Vertex AI Skill Badge</b></sub>
       </a>
     </td>
     <td align="center" width="140">
@@ -47,6 +47,14 @@
         <sub><b>Python Data Structures</b></sub>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://www.credly.com/badges/f2e7c340-edbe-46c6-ae26-5bd47661bcc6/public_url" target="_blank">
+        <img src="https://images.credly.com/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="Vertex AI" width="80"/><br>
+        <sub><b>Build Real World AI Applications with Gemini and Imagen Skill Badge</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="140">
       <a href="https://www.hackerrank.com/certificates/cc7913c5dddb" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="80"/><br>
